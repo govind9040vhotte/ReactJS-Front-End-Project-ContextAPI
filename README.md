@@ -8,7 +8,8 @@ To run the project in your application follow the below steps:
         (c) npm i font-awesome                                                      
         (d) npm i uuid                                            
         (e) npm i classnames                                      
-        (f) npm i react-router-dom                                              
+        (f) npm i react-router-dom  
+        (g) npm i axios
 
 4) To run project run cmd                                                                 
                  npm start                          .                                                                                 
